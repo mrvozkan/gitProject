@@ -9,5 +9,8 @@ public class First {
     public static void myLife(){
         System.out.println("I need to learn how to use github");
     }
+    public static void firstClass(){
+        System.out.println("I am excited for new adventures");
+    }
 }
 
