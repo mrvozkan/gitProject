@@ -12,5 +12,7 @@ public class First {
     public static void firstClass(){
         System.out.println("I am excited for new adventures");
     }
+    public static void secondClass(){
+        System.out.println("If there is a will,there is a way");
 }
 
